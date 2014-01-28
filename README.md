@@ -10,3 +10,4 @@
 # External source:    None 
 
 To run this code, please use command: python httpclient.py [GET/POST] [URL]
+Code will print code and body from response
